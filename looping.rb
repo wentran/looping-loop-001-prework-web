@@ -1,5 +1,12 @@
 def looping
-	#your code here
-end
+	loop do 
+    puts "wen"
+  end
+end  
 
-#call your method here
+
+looping
+
+
+
+
